@@ -1,2 +1,10 @@
 Teszteljük le, hogy mit történik, ha online módosítunk. 
-Megnézzük, hogy a számítógépünkön mit fog történni
+Megnézzük, hogy a számítógépünkön mit fog történni.
+
+git fetch
+git pull (itt letölti a változtatásokat)
+git add .
+git status
+git commit -m "módosítottunk"
+git status
+git push
