@@ -1,10 +1,2 @@
-bob
-jim
-marry
-
-luca
-
-krisztián
- 
-teszt
-most jó lesz
+Teszteljük le, hogy mit történik, ha online módosítunk. 
+Megnézzük, hogy a számítógépünkön mit fog történni
