@@ -1,9 +1,9 @@
 bob
 jim
 marry
-<<<<<<< HEAD
+
 luca
-=======
+
 krisztián
  
->>>>>>> 4050ff1d81211cc49360a53cf0299eb7b9cc9f9f
+teszt
